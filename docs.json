@@ -16,11 +16,7 @@
           {
             "group": "Get Started",
             "pages": [
-              "introduction",
-              "Appnest",
-              "Spotchecks",
-              "Mobile SDK",
-              "REST APIs"
+              "introduction"
             ]
           }
         ]
@@ -36,32 +32,6 @@
             ]
           }
         ],
-        "openapi": "https://ss-staging-public.s3.us-east-1.amazonaws.com/docs/sparrow.yaml"
-       
-      },
-      {
-        "tab": "Appnest",
-        "groups": [
-          {
-            "group": "Get Started",
-            "pages": [
-              "introduction",
-              "Appnest",
-              "Spotchecks",
-              "Mobile SDK",
-              "REST APIs"
-            ]
-          }
-        ]
-       
-      },
-      {
-        "tab": "Mobile SDK",
-        "openapi": "https://ss-staging-public.s3.us-east-1.amazonaws.com/docs/sparrow.yaml"
-       
-      },
-      {
-        "tab": "Spotchecks",
         "openapi": "https://ss-staging-public.s3.us-east-1.amazonaws.com/docs/sparrow.yaml"
        
       }
