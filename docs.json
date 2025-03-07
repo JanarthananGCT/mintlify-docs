@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "willow",
+  "theme": "mint",
   "name": "SurveySparrow",
   "colors": {
     "primary": "#2E9CA6",
